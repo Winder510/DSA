@@ -1,0 +1,6 @@
+﻿  TL_KhoaSo.cpp
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\Cấu trúc dữ liệu & giải thuật\CTDL.GT\TL.KhoaSo\TL_KhoaSo.cpp(22,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\Cấu trúc dữ liệu & giải thuật\CTDL.GT\TL.KhoaSo\TL_KhoaSo.cpp(31,4): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\Cấu trúc dữ liệu & giải thuật\CTDL.GT\TL.KhoaSo\TL_KhoaSo.cpp(43,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\Cấu trúc dữ liệu & giải thuật\CTDL.GT\TL.KhoaSo\TL_KhoaSo.cpp(52,4): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  TL.KhoaSo.vcxproj -> C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\Cấu trúc dữ liệu & giải thuật\CTDL.GT\x64\Debug\TL_KhoaSo.exe

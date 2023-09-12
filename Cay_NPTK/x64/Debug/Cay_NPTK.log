@@ -1,0 +1,4 @@
+﻿  Cay_NPTK.cpp
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\Cấu trúc dữ liệu & giải thuật\CTDL.GT\Cay_NPTK\Cay_NPTK.cpp(270,6): warning C4101: 'n': unreferenced local variable
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\Cấu trúc dữ liệu & giải thuật\CTDL.GT\Cay_NPTK\Cay_NPTK.cpp(125): warning C4715: 'Search': not all control paths return a value
+  Cay_NPTK.vcxproj -> C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\Cấu trúc dữ liệu & giải thuật\CTDL.GT\x64\Debug\Cay_NPTK.exe

@@ -1,0 +1,4 @@
+﻿  DFS_Update.cpp
+C:\Users\84848\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Study\Năm 1\Ki_2\Cấu trúc dữ liệu & giải thuật\CTDL.GT\DFS_Update\DFS_Update.cpp(74,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\84848\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Study\Năm 1\Ki_2\Cấu trúc dữ liệu & giải thuật\CTDL.GT\DFS_Update\DFS_Update.cpp(117,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  DFS_Update.vcxproj -> C:\Users\84848\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Study\Năm 1\Ki_2\Cấu trúc dữ liệu & giải thuật\CTDL.GT\x64\Debug\Graph_DFS_Update.exe
